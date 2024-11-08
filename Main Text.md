@@ -20,13 +20,13 @@ Four primers (#1, #2, #3, and #4) were designed as shown in Table 1. Each primer
 - PCR condition and <i>Dpn</i>I digestion<br>
 The reaction mixture (10 µL) consisted of 0.2 µL of 1 unit µL<sup>–1</sup> KOD FX<sup>a</sup> (Toyobo Co. Ltd., Osaka), 5 µL of 2x PCR buffer for KOD FX, 2 µL of 2 mM dNTPs, 20 ng of donor plasmid, 30 ng of recipient plasmid, 0.15 µL of 10 µM of each primers I, II, III and IV. The reaction mixture was fill up with distilled water.
 
-    PCR was performed 19 cycles of 98°C for 10 s, 55°C for 5s and 68°C for 5 min<sup>b</sup>, following a heating at 94°C for 2 min. After the PCR reaction, the methylated recipient plasmids were digested by adding 0.2 µL of <i>Dpn</i>I at 37°C for 1 hours (Fig. 1).
+    PCR was performed 19 cycles of 98°C for 10 s, 55°C for 5s and 68°C for 5 min<sup>b</sup>, following a heating at 94°C for 2 min. After the PCR reaction, the methylated recipient plasmids were digested by adding 0.2 µL of <i>Dpn</i>I at 37°C for 1 hours (<A href="https://github.com/izumicmori/InstantRecombination/blob/main/Figures/Shibasaka_et_al_Figure1.pdf">Fig. 1</a>).
 
 - Cloning of the target plasmid and nucleotide sequencing<br> 
 The target plasmid without filling nicks in the DNA strand were introduced into <i>E. coli</i> DH5α cell by a conventional heat shock transformation (Inoue et al., 1990). Cloned plasmid in a single colony was purified by the plasmid miniprep kit and subjected to nucleotide sequence by Sanger method.
 
 ### Results
-Nucleotide sequencing by Sanger method showed that 4 plasmids out of 4 picked <i>E. coli</i> colonies carried correctly recombined plasmid sequence (Fig. 2).
+Nucleotide sequencing by Sanger method showed that 4 plasmids out of 4 picked <i>E. coli</i> colonies carried correctly recombined plasmid sequence (<A href="https://github.com/izumicmori/InstantRecombination/blob/main/Figures/Shibasaka_et_al_Figure2.pdf">Fig. 2</a>).
 
 ### Discussion
 - Recipient DNA<br>
