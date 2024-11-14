@@ -3,7 +3,10 @@
 ### Author information
     Mineo Shibasaka, Izumi C. Mori, Shigeko Utsugi, Shaila Shermin Tania, Maki Katsuhara
     Institute of Plant Science and Resources, Okayama University, 2-20-1, Chuo, Kurashiki 710-0046, Japan
+    
     Contacts: ICM, imori@okayama-u.ac.jp; SU, utsugi@okayama-u.ac.jp; MK, kmaki@okayama-u.ac.jp
+    ORCID iD: MS, 0000-0001-8711-6310; ICM, 0000-0002-2235-0779; SU, 0006-0000-9461-2400; SST, 0000-0002-5954-2651; MK, 0000-0002-8264-3063
+    Licence: CC-BY-4.0
 
 ### Introduction
 A variety of techniques are available for introducing site-directed mutations into cloned genes, constructing chimeric genes, or vector substitution. However, selecting the appropriate method and preparing the required materials require both knowledge and technical proficiency, tailored to the specific experimental objectives. In this paper, we introduce a novel, timesaving approach with PCR-based plasmid amplification and <i>Dpn</i>I-based template plasmid removal that is broadly applicable to molecular biological experiments, including mutagenesis, chimera generation, and vector substitution, enabling these tasks to be accomplished with a single versatile technique. 
